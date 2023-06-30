@@ -1,0 +1,1 @@
+{"mappings":"AACAA,QAAQC,IAAI,eACZD,QAAQC,IAAI","sources":["src/index.js"],"sourcesContent":["\nconsole.log(\"hello world\");\nconsole.log(\"hello world\");"],"names":["console","log"],"version":3,"file":"index.a51ecad2.js.map"}
