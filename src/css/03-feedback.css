@@ -8,20 +8,16 @@
   box-shadow: -5px -5px 20px #fff, 5px 5px 20px #babecc;
   background-color: transparent;
 }
-
 button,
 input,
 textarea {
-  border: 0;
   outline: 0;
-  border-radius: 320px;
   padding: 16px;
   background-color: #ebecf0;
   text-shadow: 1px 1px 0 #fff;
   font-size: 16px;
   font: inherit;
 }
-
 .feedback-form label {
   display: flex;
   flex-direction: column;
@@ -40,21 +36,12 @@ textarea {
   transition: all 0.2s ease-in-out;
 }
 
-input:focus,
-textarea:focus {
-  box-shadow: inset 1px 1px 2px #babecc, inset -1px -1px 2px #fff;
-}
-
-textarea {
-  border-radius: 10px;
-}
-
 .feedback-form button {
   padding: 8px 12px;
   color: #61677c;
   font-weight: bold;
   box-shadow: -5px -5px 20px #fff, 5px 5px 20px #babecc;
-  transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
   cursor: pointer;
   font-weight: 600;
   font: inherit;
